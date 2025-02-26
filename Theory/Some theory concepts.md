@@ -8,3 +8,6 @@ e.g. https://docs.python.org/3/tutorial/datastructures.html
 for number in range(1,5):
     print(number)
 
+in functions (def) parameter is the variable and argument is the actual value that passed into this parameter
+
+
