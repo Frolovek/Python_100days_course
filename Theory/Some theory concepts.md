@@ -26,3 +26,8 @@ travel_log = {
 
 print(travel_log["Germany"]["cities_visited"][2]) # Stuttgart
 {code}
+
+
+To add a description to your function, add triple quotes and write something after "def" line
+def is_leap_year(year):
+    """checking if a year is leap year"""
