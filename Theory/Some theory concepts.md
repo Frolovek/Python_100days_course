@@ -31,3 +31,10 @@ print(travel_log["Germany"]["cities_visited"][2]) # Stuttgart
 To add a description to your function, add triple quotes and write something after "def" line
 def is_leap_year(year):
     """checking if a year is leap year"""
+
+To modify global variable, you need to add prefix "global"
+e.g.
+def test():
+    global test_variable
+    test_variable +=1
+
