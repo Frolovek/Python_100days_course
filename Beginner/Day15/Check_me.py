@@ -1,1 +1,0 @@
-print("Go check Day6 lesson and debug everything")
