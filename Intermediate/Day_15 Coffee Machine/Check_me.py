@@ -1,0 +1,1 @@
+print("Go check Day_06 Python Functions lesson and debug everything")
