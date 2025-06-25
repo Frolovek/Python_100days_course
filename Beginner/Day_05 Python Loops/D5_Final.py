@@ -30,7 +30,7 @@ for i in range(0,nr_numbers):
 
 print(password)
 
-# Difficult level - password is generated in random coffee_maker
+# Difficult level - password is generated in random order
 
 random.shuffle(password)
 print(password)
